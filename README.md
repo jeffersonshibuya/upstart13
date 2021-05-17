@@ -34,7 +34,8 @@ Open [http://localhost:3333/homes](http://localhost:3333/homes) to view the json
 * Other information pages (about, contact, client comments)
 
 ## Out of scope
-### Supported browsers
+- IE
+#### Supported browsers
 - Chrome
 - Firefox
 - Opera
